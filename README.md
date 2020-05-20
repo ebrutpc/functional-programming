@@ -1,2 +1,1 @@
-# functional-programming
-Comu Functional Programming Lesson 
+  Functional Programming Lesson 
